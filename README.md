@@ -1,1 +1,2 @@
-# Vineeth_project
+# TCR_Project_PS
+Understanding the most probable purposes behind workers leaving, will help the association to make proper moves to lessen the degree of Attrition. We have developed an exceptionally straightforward pipeline of foreseeing worker wearing down, from an essential Exploratory Data Analysis to include designing along with executing one learning model as a Logistic Regression model. This whole journal takes under a moment to run and it really returns 90% precision in its forecasts.
