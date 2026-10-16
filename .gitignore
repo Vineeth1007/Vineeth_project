@@ -1,0 +1,16 @@
+# Dataset (third-party data, not committed) - supply it separately, see README.md
+HR_Employee_Attrition-1.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment and OS files
+.env
+.DS_Store

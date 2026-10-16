@@ -1,0 +1,9 @@
+# Packages imported by employee-attrition-prediction.ipynb (not pinned: the notebook does not pin versions).
+# Jupyter (e.g. `pip install notebook`) is also needed to open the notebook but is not imported by it.
+# As committed, the notebook needs scikit-learn < 1.2 (plot_roc_curve) and pandas < 2.0 (df.corr() on a frame
+# with text columns); see the README ("How to run") for details.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
